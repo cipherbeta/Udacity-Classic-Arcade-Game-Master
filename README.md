@@ -1,6 +1,20 @@
-frontend-nanodegree-arcade-game
-===============================
+---
+# Udacity 'Frogger' Classic Arcade Game Project
+*Created for the Udacity Front End Web Developer Nanodegree.*
+**View the original repo (before project edits) [_here_](https://github.com/udacity/frontend-nanodegree-arcade-game).**
+---
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Game Features
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+  - Bugs (it's a feature!)
+  - Incremental gameplay and ramping difficulty with procedurally generated enemies
+  - Forced restart system on game over, alerting player of score and level.
+
+
+## How to get 'er up and running
+1. Clone repository or download .zip.
+2. Extract .zip to directory of your choice if applicable
+3. Open index.html in your web browser of choice (if you still use IE7, question your life choices)
+4. Use the arrow keys to move your character. Avoid the bugs and make it to the water to progress to the next level.
+5. Shoot for your high score! Or don't, I'm a readme, not the police.
+---

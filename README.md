@@ -1,8 +1,6 @@
----
 # Udacity 'Frogger' Classic Arcade Game Project
 *Created for the Udacity Front End Web Developer Nanodegree.*
 **View the original repo (before project edits) [_here_](https://github.com/udacity/frontend-nanodegree-arcade-game).**
----
 
 ## Game Features
 

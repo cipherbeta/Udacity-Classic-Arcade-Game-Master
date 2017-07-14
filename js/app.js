@@ -95,22 +95,22 @@ Player.prototype.handleInput = function(input) {
   switch (input) {
     case 'left' :
       if (this.x > 0){
-        player.x -= player.velocity;
+        this.x -= this.velocity;
       }
       break;
     case 'up' :
       if (this.y > 0){
-        player.y -= player.velocity - 20;
+        this.y -= this.velocity - 20;
       }
       break;
     case 'right' :
       if (this.x < 375){
-        player.x += player.velocity;
+        this.x += this.velocity;
       }
       break;
     case 'down' :
       if (this.y < 306){
-        player.y += player.velocity - 20;
+        this.y += this.velocity - 20;
       }
       break;
   }
